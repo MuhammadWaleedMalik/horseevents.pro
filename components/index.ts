@@ -1,0 +1,11 @@
+export { default as Header } from './Header';
+export { default as EventCategories } from './EventCategories';
+export { default as HeroSection } from './HeroSection';
+export { default as BackgroundSection } from './BackgroundSection';
+export { default as FeatureSection } from './FeatureSection';
+export { default as ContentSection } from './ContentSection';
+export { default as PlatformSection } from './PlatformSection';
+export { default as VideoSection } from './VideoSection';
+export { default as TestimonialSection } from './TestimonialSection';
+export { default as CTASection } from './CTASection';
+export { default as Footer } from './Footer';
